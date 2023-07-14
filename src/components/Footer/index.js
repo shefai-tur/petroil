@@ -44,7 +44,7 @@ const Footer = () => {
           <div className="w-1/6">
             <ul className="text-white mt-4 font-pop text-sm font-regular">
               <li className="font-pop font-bold text-base mb-5">Company</li>
-              <li>Home shefaitur</li>
+              <li>Home</li>
               <li className="py-3.5">About</li>
               <li>Services</li>
               <li className="pt-3.5">Gallery</li>
